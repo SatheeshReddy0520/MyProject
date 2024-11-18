@@ -1,0 +1,190 @@
+suiteXmlPath: "C:\Users\DTLPHY20\April\OpencartV123\master.xml"
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_004 Started....
+login to the account
+Searching Product
+Product Displayed Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_004 Started....
+login to the account
+Searching Product
+Product Displayed Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_004 Started....
+login to the account
+Searching Product
+Product Displayed Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_004 Started....
+login to the account
+Searching Product
+Product Displayed Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_004 Started....
+login to the account
+Searching Product
+Product Displayed Sucessfully
+product Qunatity Added.....
+Clicked on add to cart...
+Product Added Sucessfully
+Test Executed Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_004 Started....
+login to the account
+Searching Product
+Product Displayed Sucessfully
+product Qunatity Added.....
+Clicked on add to cart...
+Product Added Sucessfully
+Test Executed Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\DTLPHY20\AppData\Local\Temp\testng-eclipse-101435277\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+[TestNG] Time taken by org.testng.reporters.jq.Main@278bb07e: 303 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@5bd82fed: 28 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@62452cc9: 17 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@58fe0499: 13 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5c00384f: 14 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@3b7ff809: 0 ms
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+Sucessfully logged in
+Product displayed
+Quantity Added Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+Sucessfully logged in
+Product displayed
+Quantity Added Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+Sucessfully logged in
+Product displayed
+Quantity Added Sucessfully
+Product Added To Cart
+Product price
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+*** Started TestCase TC002 ***
+*** Finished TestCase ***
+TC_004 Started....
+login to the account
+Searching Product
+Product Displayed Sucessfully
+product Qunatity Added.....
+Clicked on add to cart...
+Test Executed Sucessfully
+TC_005 Started Sucessfully
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+*** Started TestCase TC002 ***
+*** Finished TestCase ***
+TC_004 Started....
+login to the account
+Searching Product
+Product Displayed Sucessfully
+product Qunatity Added.....
+Clicked on add to cart...
+Test Executed Sucessfully
+TC_005 Started Sucessfully
+Clicked on login page
+Sucessfully logged in
+Product displayed
+Quantity Added Sucessfully
+Product Added To Cart
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+Sucessfully logged in
+Product displayed
+Quantity Added Sucessfully
+Product Added To Cart
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+Sucessfully logged in
+Product displayed
+Quantity Added Sucessfully
+Product Added To Cart
+[TestNG] Running:
+  C:\Users\DTLPHY20\April\OpencartV123\master.xml
+
+TC_005 Started Sucessfully
+Clicked on login page
+Sucessfully logged in
+Product displayed
+Quantity Added Sucessfully
+Product Added To Cart
