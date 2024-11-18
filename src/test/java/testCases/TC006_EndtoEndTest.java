@@ -1,6 +1,6 @@
 package testCases;
 
-public class TC_006 {
+public class TC006_EndtoEndTest {
 	//this is test 6
 
 }
