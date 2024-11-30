@@ -39,7 +39,7 @@ public class TC001_registrationAccount extends BaseClass {
 //		regpage.setpassword("qwerty");
 		regpage.setpassword(password);
 //		regpage.cnfpassword("qwerty");
-		regpage.cnfpassword(password);
+		regpage.cnfpassword(password);     
 		regpage.clickagree();
 		regpage.clickcontinue();
 		String cnfmsg=regpage.cnfmessage();
